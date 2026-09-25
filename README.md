@@ -1,0 +1,2 @@
+# Applied-Geostatistics-Lab
+Applications 
