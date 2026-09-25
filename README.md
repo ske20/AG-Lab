@@ -3,8 +3,8 @@
 ## Local test
 ```bash
 pip install -r requirements.txt
-streamlit run streamlit_app.py
+streamlit run descriptive_probability_monte.py
 ```
 
 ## Streamlit Community Cloud
-Upload `streamlit_app.py` and `requirements.txt` to the root of a GitHub repository. In Streamlit Community Cloud, create an app, select that repository and branch, and set the main file path to `streamlit_app.py`.
+Upload `descriptive_probability_monte.py` and `requirements.txt` to the root of a GitHub repository. In Streamlit Community Cloud, create an app, select that repository and branch, and set the main file path to `streamlit_app.py`.
