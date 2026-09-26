@@ -8,6 +8,15 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
+import streamlit as st
+from geostatistics_theme import setup_theme
+ 
+st.set_page_config(
+page_title="Applied Geostatistics Lab",
+layout="wide"
+)
+ 
+theme_name, theme = setup_theme()
 st.set_page_config(page_title='Probability Distribution Teaching App',layout='wide')
 PDFS=['Normal','Truncated normal','Beta','Lognormal','Exponential','Triangular','Uniform']
 LABELS=['p10','p50','p90']; COLORS=['green','darkorange','red']
