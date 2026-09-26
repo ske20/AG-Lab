@@ -1,1 +1,1 @@
-Upload ds_prob_monte.py and requirements.txt to the GitHub repository root. Deploy with main file path ds_prob_monte.py. Local: pip install -r requirements.txt; streamlit run ds_prob_monte.py. Use approved teaching datasets only.
+Upload ds_prob_monte_themed.py and requirements.txt to the GitHub repository root. Deploy with main file path ds_prob_monte_themed.py. Local: pip install -r requirements.txt; streamlit run ds_prob_monte_themed.py. Use approved teaching datasets only.
